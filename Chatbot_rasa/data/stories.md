@@ -35,6 +35,10 @@
 * thank
   - utter_thank
 
+## unclear
+* unclear
+    - utter_unclear
+
 ## bye
 * bye
     - utter_bye

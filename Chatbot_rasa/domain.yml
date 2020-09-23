@@ -5,6 +5,7 @@ intents:
  - bye
  - ask_func_list
  - ask_name
+ - unclear
 
 
 templates:
@@ -20,8 +21,8 @@ templates:
  utter_func_list:
   - text: "Em có thể làm được rất nhiều thứ: hát, đọc thơ, đọc chuyện...nhưng giờ em chỉ chat thôi!"
  utter_ask_name:
-  - text: "Em họ Bank, tên Bot! Người ta hay gọi em là Bank Bot thông minh xinh đẹp giỏi giang nhất vũ trụ ạ! Quý khách cần trợ giúp gì ạ?"
-  - text: "Dạ thưa. Tên Tiếng Việt của em là Trợ lý ảo Ngân hàng nhưng em thích gọi bằng tên Tiếng Anh là Bank Bot cho nó Tây!"
+  - text: "Em họ Phèo, tên Chí! Người ta hay gọi em là Chí thông minh xinh đẹp giỏi giang nhất vũ trụ ạ! Quý khách cần trợ giúp gì ạ?"
+  - text: "Dạ thưa. Tên Tiếng Việt của em là  Phèo nhưng em thích gọi bằng tên Tiếng Anh là ... ạ !"
  utter_unclear:
   - text: "Thưa quý khách, hiện tại tôi chưa hiểu được yêu cầu của Quý khách. "
 
