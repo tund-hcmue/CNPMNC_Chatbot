@@ -4,7 +4,7 @@
         pip install rasa
     B2: Run code:
         rasa train
-        rasa run actions
+        (rasa run actions)
         rasa shell (chat thử với bot)
 # Kết nối với fb
     B1: Cấu hình fb app
