@@ -1,4 +1,5 @@
 # CNPMNC_Chatbot
+# Python 3.7.9
 # Hướng dẫn train và khởi động
     B1: Cài đặt thư viện:
         pip install rasa
