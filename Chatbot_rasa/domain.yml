@@ -7,7 +7,7 @@ intents:
  - ask_name
  - unclear
 
-templates:
+responses:
 # Bot trả lời
  utter_greet:
   - text: "Kính chào Quý khách!"
