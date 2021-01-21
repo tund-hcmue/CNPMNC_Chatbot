@@ -7,7 +7,6 @@ intents:
  - ask_name
  - unclear
 
-
 templates:
 # Bot trả lời
  utter_greet:

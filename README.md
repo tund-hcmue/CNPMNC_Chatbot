@@ -19,4 +19,4 @@
     B3: Edit callback URL trong fb app thành:
             https://xxxxx.ngrok.io/webhooks/facebook/webhook
         Verify Token: botTund
-    B4: test
+    B4: Test...
